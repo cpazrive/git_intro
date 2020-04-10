@@ -1,2 +1,2 @@
-Git exaple file
+Git example file
 Adding a second line

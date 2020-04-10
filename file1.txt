@@ -2,3 +2,4 @@ Git example file
 Adding a second line
 Adding a third line
 Adding a four line
+Adding a fifth line
